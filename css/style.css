@@ -61,6 +61,7 @@
 		font-size: 1.25em;
     text-align: center;
     font-style: normal;
+    color: #a0a2a5;
 	}
 
 	sub {
@@ -94,6 +95,7 @@
 	}
 
   .maintext {
+    margin-top: 0px;
     margin-left: 140px;
     margin-right: 140px;
     font-size: 18px;
