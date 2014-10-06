@@ -87,7 +87,14 @@
 
 	section.special, article.special{
 		text-align: center;
+    margin-right: 10.5em;
+    margin-bottom: 10,5em;
 	}
+
+  .maintext {
+    margin-left: 150px;
+    margin-right: 150px;
+  }
 
 	header.major {
 		padding-bottom: 4em;
@@ -445,7 +452,8 @@
 	.wrapper.style1 {
 		background: #ececec;
     text-align: center;
-	}
+    height: 550px;
+}
 
 	.wrapper.style2 {
 		background: #fff;
@@ -633,9 +641,15 @@
 /* Footer */
 
 	#footer {
-		padding: 4em 0;
+		padding: 3em 0;
 		color: #fff;
 	}
+
+  .link {
+    display: inline-block;
+    margin-right: 30px;
+    margin-left: 0px;
+  }
 
 		#footer .major h2 {
 			font-size: 2em;
