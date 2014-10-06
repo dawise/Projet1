@@ -59,6 +59,7 @@
 
 	h3 {
 		font-size: 1.25em;
+    text-align: center;
 	}
 
 	sub {
@@ -451,7 +452,7 @@
 
 	.wrapper.style1 {
 		background: #ececec;
-    text-align: center;
+    text-align: justify;
     height: 550px;
 }
 
