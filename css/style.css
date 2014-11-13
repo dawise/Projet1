@@ -36,6 +36,7 @@
 
        }
 
+
 	strong, b {
 		font-weight: 700;
 	}
@@ -466,7 +467,7 @@
 	.wrapper.style1 {
 		background: #ececec;
     text-align: justify;
-    height: 650px;
+    height: 700px;
 }
 
 	.wrapper.style2 {
