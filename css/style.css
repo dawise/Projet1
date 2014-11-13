@@ -687,3 +687,11 @@
 		#footer a {
 			color: inherit;
 		}
+
+    #rejoindre {
+      text-align: center;
+    }
+
+    .texte {
+      font-size: 22px;
+    }
