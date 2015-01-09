@@ -506,6 +506,12 @@
     height: 750px;
 }
 
+.wrapper.style9 {
+    background: #ececec;
+    text-align: justify;
+    height: 850px;
+}
+
 		.wrapper.style3 span {
 			display: inline-block;
 			padding-top: 0.80em;
