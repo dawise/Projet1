@@ -471,6 +471,23 @@
     height: 700px;
 }
 
+.wrapper.style5 {
+    background: #ececec;
+    text-align: justify;
+    height: 1000px;
+}
+
+.wrapper.style6 {
+    background: #ececec;
+    text-align: justify;
+    height: 1500px;
+}
+
+.wrapper.style7 {
+    background: #ececec;
+    text-align: justify;
+    height: 1100px;
+}
 	.wrapper.style2 {
 		background: #fff;
 		padding: 6em 0;
